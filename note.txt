@@ -1,0 +1,8 @@
+form -->
+    - action - manipulate/output generate on selected page ==> (eg. folder/add.php)
+    - method => data pass - get / post (get--+ data show in url)
+    - enctype - process file
+
+input --> name, class, id
+
+** reload ==> through url
